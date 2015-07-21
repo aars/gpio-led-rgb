@@ -1,0 +1,17 @@
+{
+  "name": "gpio-led-rgb",
+  "version": "0.0.1",
+  "description": "control RGB led",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "lodash": "^3.10.0",
+    "onoff": "^1.0.2",
+    "winston": "^1.0.1"
+  }
+}
